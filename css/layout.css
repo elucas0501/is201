@@ -1,0 +1,37 @@
+
+
+
+
+
+
+
+
+.default_div{
+    position:relative;
+    border: solid 2px black;
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 125px;
+}
+
+.main{
+    top: 2px;
+    left: 5px;
+    right: 5px;
+    text-align: left;
+    bottom: 114px;
+}
+
+.footer{
+    height: 430px;
+    left: 5px;
+    right: 5px;
+    
+    Top: 1px;
+}

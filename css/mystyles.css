@@ -1,0 +1,32 @@
+
+
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: coral;
+}
+
+p{
+    color: black;
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: coral;
+    border: 3px solid black;
+    padding:0% 15px;
+}
+
+.special{
+    font-style: italic;
+    font-size: x-large;
+    color: darkgoldenrod;
+    
+}
+.special2{
+    font-style: italic;
+    font-size: x-large;
+    color: rgb(0, 0, 0);
+    
+}
+
+a:visited{
+    color: blue;
+}
